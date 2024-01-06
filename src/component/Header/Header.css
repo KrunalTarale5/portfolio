@@ -1,0 +1,17 @@
+.main-header-div{
+background-color: antiquewhite;
+}
+
+.header-div{
+    width: 50%;
+    width: 60%;
+}
+
+.image1{
+    width: -webkit-fill-available;
+}
+
+.name-div{
+    margin: auto;
+    align-items: center;
+}
